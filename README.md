@@ -10,3 +10,5 @@
 ### The image above shows the crows foot notation schema that was used to make the database, and then using the populate.sql to populate the database according to the given state in the brief pdf.
 
 ### The .sql files from q1 to q8 are representing the 8 turns and the changes that have to take place according to the given turns in the brief pdf
+
+### The monopoleeChecker.py file was prowvided by the professor in order to check our own code by running the checker file and confirming the codebase works correctly or not.
